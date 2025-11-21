@@ -35,17 +35,18 @@ function Newsletter() {
           className="mt-6 md:mt-8 flex flex-col md:flex-row gap-4 justify-center w-full max-w-xl"
           onSubmit={submit}
         >
-        
+
           <div className="relative w-full md:w-2/3">
-            <span className="absolute left-4 top-1/2 -translate-y-1/2 text-gray-400 text-lg">📧</span>
+            
 
             <input
-              className="p-3 md:p-4 pl-12 w-full bg-white rounded-xl text-sm md:text-base shadow-sm"
+              className="p-4 md:p-5 pl-18 w-full bg-white rounded-xl text-sm md:text-base shadow-sm"
               placeholder="Enter your email"
               value={email}
               onChange={(e) => setEmail(e.target.value)}
             />
           </div>
+
 
           <button className="bg-orange-300 text-white py-3 md:py-4 px-10 rounded-xl text-base md:text-lg shadow-lg hover:bg-orange-400 transition">
             Subscribe
