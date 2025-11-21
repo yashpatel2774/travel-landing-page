@@ -1,0 +1,138 @@
+{
+  "destinations": [
+    {
+      "id": "1",
+      "city": "Rome, Italy",
+      "price": "$5.42k",
+      "duration": "10 Days Trip",
+      "image": "https://media.istockphoto.com/id/622806180/photo/colosseum-in-rome-at-dusk.webp?a=1&b=1&s=612x612&w=0&k=20&c=diwu8kQrIqc51Ae1Zn3kIBtvgRSc3pCwajTKV0KVRFw="
+    },
+    {
+      "id": "2",
+      "city": "London, UK",
+      "price": "$4.20k",
+      "duration": "12 Days Trip",
+      "image": "https://plus.unsplash.com/premium_photo-1671734045770-4b9e1a5e53a0?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8TG9uZG9ufGVufDB8fDB8fHww"
+    },
+    {
+      "id": "3",
+      "city": "Full Europe",
+      "price": "$15k",
+      "duration": "28 Days Trip",
+      "image": "https://images.unsplash.com/photo-1612352891598-639786f98b8f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8ZnVsbCUyMGV1cm9wZXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "4",
+      "city": "Tokyo, Japan",
+      "price": "$7.80k",
+      "duration": "8 Days Trip",
+      "image": "https://plus.unsplash.com/premium_photo-1661914240950-b0124f20a5c1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8VG9reW98ZW58MHx8MHx8fDA%3D"
+    },
+    {
+      "id": "5",
+      "city": "Bali, Indonesia",
+      "price": "$3.50k",
+      "duration": "7 Days Trip",
+      "image": "https://plus.unsplash.com/premium_photo-1677829177642-30def98b0963?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YmFsaXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "6",
+      "city": "Paris, France",
+      "price": "$6.90k",
+      "duration": "9 Days Trip",
+      "image": "https://images.unsplash.com/photo-1511739001486-6bfe10ce785f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cGFyaXN8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+      "id": "7",
+      "city": "New York, USA",
+      "price": "$8.10k",
+      "duration": "6 Days Trip",
+      "image": "https://media.istockphoto.com/id/623595614/photo/new-york-city-skyline-statue-of-liberty.webp?a=1&b=1&s=612x612&w=0&k=20&c=oSUIsK6uKeNEN60xX3j4SErLXE0iy0HQiSpPhHVxW6I="
+    },
+    {
+      "id": "8",
+      "city": "Dubai, UAE",
+      "price": "$5.80k",
+      "duration": "5 Days Trip",
+      "image": "https://plus.unsplash.com/premium_photo-1697729914552-368899dc4757?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8ZHViYWl8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+      "id": "9",
+      "city": "Sydney, Australia",
+      "price": "$9.40k",
+      "duration": "10 Days Trip",
+      "image": "https://images.unsplash.com/photo-1524820197278-540916411e20?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8QXVzdHJhbGlhfGVufDB8fDB8fHww"
+    },
+    {
+      "id": "10",
+      "city": "Istanbul, Turkey",
+      "price": "$4.70k",
+      "duration": "7 Days Trip",
+      "image": "https://images.unsplash.com/photo-1564407727371-3eece6c58961?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8SXN0YW5idWx8ZW58MHx8MHx8fDA%3D"
+    }
+  ],
+
+  "subscribers": [
+    {
+      "id": "e8f8",
+      "email": "yoo1@gmail.com"
+    }
+  ],
+
+  "testimonials": [
+    {
+      "id": "1",
+      "name": "Mita Kapoor",
+      "role": "Product Designer",
+      "message": "The trip planning was seamless — excellent service and timely updates. Highly recommended!",
+      "avatar": "https://randomuser.me/api/portraits/women/44.jpg",
+      "rating": 5,
+      "date": "2025-10-01"
+    },
+    {
+      "id": "2",
+      "name": "Chris Thomas",
+      "role": "CTO",
+      "message": "Great selection of destinations and great customer support — made booking a breeze.",
+      "avatar": "https://randomuser.me/api/portraits/men/32.jpg",
+      "rating": 4,
+      "date": "2025-09-18"
+    },
+    {
+      "id": "3",
+      "name": "Aisha Khan",
+      "role": "Marketing Lead",
+      "message": "Loved the curated itinerary and local tips — a truly personalised experience.",
+      "avatar": "https://randomuser.me/api/portraits/women/68.jpg",
+      "rating": 5,
+      "date": "2025-08-22"
+    },
+    {
+      "id": "4",
+      "name": "Daniel Park",
+      "role": "Photographer",
+      "message": "Smooth booking flow and detailed guides. The service exceeded my expectations.",
+      "avatar": "https://randomuser.me/api/portraits/men/75.jpg",
+      "rating": 5,
+      "date": "2025-07-30"
+    },
+    {
+      "id": "5",
+      "name": "Riya Sharma",
+      "role": "Product Manager",
+      "message": "User-friendly site and responsive support. My family enjoyed every bit of the trip.",
+      "avatar": "https://randomuser.me/api/portraits/women/12.jpg",
+      "rating": 4,
+      "date": "2025-06-14"
+    },
+    {
+      "id": "6",
+      "name": "Omar Ali",
+      "role": "Entrepreneur",
+      "message": "Quick responses and great deals — will book again for sure.",
+      "avatar": "https://randomuser.me/api/portraits/men/22.jpg",
+      "rating": 5,
+      "date": "2025-05-05"
+    }
+  ]
+}
